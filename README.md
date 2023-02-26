@@ -1,1 +1,2 @@
-# gits-msib4-tugas2
+# Nama         : Airell Aristo Subagia
+# Universitas  : Universitas Kristen Duta Wacana
